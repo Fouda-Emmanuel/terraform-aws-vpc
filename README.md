@@ -283,7 +283,6 @@ MIT
 
 ## Need Help?
 
-- See the [examples](./examples) directory for more usage scenarios
-- Check the Terraform Registry documentation for this module
-- Open an issue on GitHub for bugs or feature requests
+- See the [basic example](https://registry.terraform.io/modules/Fouda-Emmanuel/vpc/aws/latest/examples/basic) on the Terraform Registry
+- Open an [issue on GitHub](https://github.com/Fouda-Emmanuel/terraform-aws-vpc/issues) for bugs or feature requests
 
